@@ -117,7 +117,7 @@ cv2.destroyAllWindows()
 ### SCREEN SHOTS OF OUTPUT 
 
 
-![image](https://github.com/user-attachments/assets/cb074ad3-99d8-409f-b79f-5f47450e3fa6)
+![Uploading WhatsApp Image 2025-05-15 at 11.41.27_2917e0af.jpg…]()
 
 
 
